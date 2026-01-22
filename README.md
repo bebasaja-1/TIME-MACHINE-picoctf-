@@ -13,14 +13,14 @@
 unzip file challenge.zip menggunakan ' unzip <filename>
 
 # langkah 2 explore directory 
-setelash menggunakan ls ditemukan satu file bernama message.txt
-setelah di lihat menggunakan command cat <filename> keluar tulisan "This is What I was working on , but I'd need to look ar my commit history to know why..."
-selain message.txt ada directory .git saat ls -a
+-setelah menggunakan ls ditemukan satu file bernama message.txt
+-setelah di lihat menggunakan command cat <filename> keluar tulisan "This is What I was working on , but I'd need to look ar my commit history to know why..."
+-selain message.txt ada directory .git saat ls -a
 masuk ke .git menggunakan command cd /<directory>
 
 # langkah 3 temukan flag
-gunakan command git log untuk melihat history file
-ketemu deh filenya 
+-gunakan command git log untuk melihat history file
+-ketemu deh filenya 
 ![alt text](?raw=true)
 
 
