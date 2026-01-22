@@ -21,6 +21,6 @@ masuk ke .git menggunakan command cd /<directory>
 # langkah 3 temukan flag
 -gunakan command git log untuk melihat history file
 -ketemu deh filenya 
-![alt text](?raw=true)
+![alt text](https://github.com/bebasaja-1/gambar/blob/main/Annotation%202026-01-22%20104339.png?raw=true)
 
 
