@@ -11,11 +11,12 @@
 
 # langkah 1 unzip file
 unzip file challenge.zip menggunakan ' unzip <filename>
+- ke directory drop-in
 
 # langkah 2 explore directory 
--setelah menggunakan ls ditemukan satu file bernama message.txt
--setelah di lihat menggunakan command cat <filename> keluar tulisan "This is What I was working on , but I'd need to look ar my commit history to know why..."
--selain message.txt ada directory .git saat ls -a
+- setelah menggunakan ls ditemukan satu file bernama message.txt
+- setelah di lihat menggunakan command cat <filename> keluar tulisan "This is What I was working on , but I'd need to look ar my commit history to know why..."
+- selain message.txt ada directory .git saat ls -a
 masuk ke .git menggunakan command cd /<directory>
 
 # langkah 3 temukan flag
